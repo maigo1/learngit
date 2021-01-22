@@ -6,4 +6,4 @@ This is a demo created by XIATAO
  i am not happy
  you still use svm
  creating a new branch is quick
- creating a new branch is quick & simple  
+creating a new branch is quick and simple
