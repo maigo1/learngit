@@ -7,3 +7,4 @@ This is a demo created by XIATAO
  you still use svm
  creating a new branch is quick
 creating a new branch is quick and simple
+ add merge
