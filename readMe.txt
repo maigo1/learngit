@@ -4,3 +4,5 @@ This is a demo created by XIATAO
  Git tracks changes of files 
  i am happy
  i am not happy
+ you still use svm
+ creating a new branch is quick
